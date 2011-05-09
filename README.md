@@ -1,4 +1,4 @@
 Jist
 ====
 
-A basic OSGi project ith mvn 3 and github.
+A basic OSGi project with mvn 3 and github.
